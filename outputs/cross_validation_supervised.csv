@@ -1,0 +1,3 @@
+Model,precision_mean,recall_mean,f1_mean,roc_auc_mean,f1_std
+Logistic Regression,1.0,1.0,1.0,1.0,0.0
+Random Forest,1.0,1.0,1.0,1.0,0.0

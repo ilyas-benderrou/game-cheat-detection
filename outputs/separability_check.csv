@@ -1,0 +1,9 @@
+Feature,Normal_min,Normal_max,Suspect_min,Suspect_max,Perfectly_separable_by_one_threshold
+Session_Duration,10.0,60.0,10.6,60.0,False
+APM,50.0,250.0,100.0,298.0,False
+KD_Ratio,0.5,3.0,5.09,19.92,True
+Accuracy,0.2,0.5,0.8,0.99,True
+Headshot_Rate,0.1,0.4,0.8,1.0,True
+Aim_Score,0.020000000000000004,0.2,0.6642,0.99,True
+Combat_Score,0.10200000000000001,1.47,4.2661999999999995,19.244799999999998,True
+Activity_Score,0.8818342151675485,23.689320388349515,1.8244406196213425,26.60377358490566,False

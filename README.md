@@ -20,7 +20,8 @@ how far these results transfer to a real anti-cheat system.
 
 | | |
 |---|---|
-| Dataset | Kaggle — **"Online Gaming Behavior and Cheating Metrics"** |
+| Dataset | Kaggle — **"Online Gaming Behavior & Cheating Metrics 2026"** ([masanakashima/online-gaming-behavior-2026](https://www.kaggle.com/datasets/masanakashima/online-gaming-behavior-2026)) |
+| Licence | CC0: Public Domain (as stated on the Kaggle page) |
 | File | `online_gaming_behavior.csv` (not included, see [`data/README.md`](data/README.md)) |
 | Size | 5,000 sessions, 12 columns |
 | Target | `Cheat_Likelihood`: 4,771 normal (95.4 %) / 229 suspect (4.6 %) |

@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (download it from Kaggle, see README)
+data/*
+!data/README.md
+*.csv
+!outputs/*.csv
+
+# Trained models (re-created by src/anticheat_pipeline.py)
+models/
+*.joblib
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
